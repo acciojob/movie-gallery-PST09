@@ -1,2 +1,8 @@
-
+body{
+    align-items: center;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
 /* Your CSS Code here. */
